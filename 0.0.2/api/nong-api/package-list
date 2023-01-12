@@ -66,9 +66,27 @@ $dokka.location:com.njf2016.android.nongapi.definition/V_0_0_1/startActivity/#ko
 $dokka.location:com.njf2016.android.nongapi.definition/V_0_0_2///PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_2/index.md
 $dokka.location:com.njf2016.android.nongapi.definition/V_0_0_2/hasSoftInput/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_2/has-soft-input.md
 $dokka.location:com.njf2016.android.nongapi.definition/V_0_0_2/hideSoftInput/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_2/hide-soft-input.md
+$dokka.location:com.njf2016.android.nongapi.helper////PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/index.md
+$dokka.location:com.njf2016.android.nongapi.helper//gson/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/gson.md
+$dokka.location:com.njf2016.android.nongapi.helper//jsCallback/kotlin.String#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/js-callback.md
+$dokka.location:com.njf2016.android.nongapi.helper//toJsCallback/kotlin.String#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/to-js-callback.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsCallback///PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-callback/index.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsCallback/JsCallback/#kotlin.String#com.njf2016.android.nongapi.helper.JsResult[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-callback/-js-callback.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsCallback/func/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-callback/func.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsCallback/payload/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-callback/payload.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsResult///PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-result/index.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsResult/JsResult/#TypeParam(bounds=[kotlin.Any?])#kotlin.String#kotlin.String#kotlin.Int#kotlin.Long#kotlin.String#kotlin.collections.Map[kotlin.String,kotlin.Any]/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-result/-js-result.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsResult/content/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-result/content.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsResult/date/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-result/date.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsResult/errCode/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-result/err-code.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsResult/error/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-result/error.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsResult/extInfo/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-result/ext-info.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsResult/extraOne/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-result/extra-one.md
+$dokka.location:com.njf2016.android.nongapi.helper/JsResult/result/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/-js-result/result.md
 $dokka.location:com.njf2016.android.nongapi////PointingToDeclaration/nong-api/com.njf2016.android.nongapi/index.md
 $dokka.location:com.njf2016.android.nongapi/INongApi///PointingToDeclaration/nong-api/com.njf2016.android.nongapi/-i-nong-api/index.md
 com.njf2016.android.nongapi
 com.njf2016.android.nongapi.annotation
 com.njf2016.android.nongapi.definition
+com.njf2016.android.nongapi.helper
 
