@@ -67,9 +67,9 @@ $dokka.location:com.njf2016.android.nongapi.definition/V_0_0_2///PointingToDecla
 $dokka.location:com.njf2016.android.nongapi.definition/V_0_0_2/hasSoftInput/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_2/has-soft-input.md
 $dokka.location:com.njf2016.android.nongapi.definition/V_0_0_2/hideSoftInput/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_2/hide-soft-input.md
 $dokka.location:com.njf2016.android.nongapi.definition/V_0_0_3///PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_3/index.md
-$dokka.location:com.njf2016.android.nongapi.definition/V_0_0_3/parameterAdd/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_3/parameter-add.md
-$dokka.location:com.njf2016.android.nongapi.definition/V_0_0_3/parameterCopy/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_3/parameter-copy.md
-$dokka.location:com.njf2016.android.nongapi.definition/V_0_0_3/parameterEdit/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_3/parameter-edit.md
+$dokka.location:com.njf2016.android.nongapi.definition/V_0_0_3/parameterAdd/#kotlin.String/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_3/parameter-add.md
+$dokka.location:com.njf2016.android.nongapi.definition/V_0_0_3/parameterCopy/#kotlin.String/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_3/parameter-copy.md
+$dokka.location:com.njf2016.android.nongapi.definition/V_0_0_3/parameterEdit/#kotlin.String/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.definition/-v_0_0_3/parameter-edit.md
 $dokka.location:com.njf2016.android.nongapi.helper////PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/index.md
 $dokka.location:com.njf2016.android.nongapi.helper//gson/#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/gson.md
 $dokka.location:com.njf2016.android.nongapi.helper//jsCallback/kotlin.String#/PointingToDeclaration/nong-api/com.njf2016.android.nongapi.helper/js-callback.md
