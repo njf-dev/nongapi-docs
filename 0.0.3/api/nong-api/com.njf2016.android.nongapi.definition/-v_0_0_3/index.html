@@ -576,8 +576,8 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#functions" class="md-nav__link">
-    Functions
+  <a href="#author" class="md-nav__link">
+    Author
   </a>
   
 </li>
@@ -585,6 +585,20 @@
         <li class="md-nav__item">
   <a href="#inheritors" class="md-nav__link">
     Inheritors
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#types" class="md-nav__link">
+    Types
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#functions" class="md-nav__link">
+    Functions
   </a>
   
 </li>
@@ -607,8 +621,38 @@
 
 <p>//<a href="../../../">nongApi</a>/<a href="../">com.njf2016.android.nongapi.definition</a>/<a href="./">V_0_0_3</a></p>
 <h1 id="v_0_0_3">V_0_0_3</h1>
-<p>[androidJvm]\
-interface <a href="./">V_0_0_3</a></p>
+<p>interface <a href="./">V_0_0_3</a></p>
+<p>增加生长期交互接口</p>
+<h4 id="author">Author</h4>
+<p><a href=mailto:mcxinyu@foxmail.com>yuefeng</a> in 2023/3/10.</p>
+<h4 id="inheritors">Inheritors</h4>
+<table>
+<thead>
+<tr>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="../../com.njf2016.android.nongapi/-i-nong-api/">INongApi</a></td>
+</tr>
+</tbody>
+</table>
+<h2 id="types">Types</h2>
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Summary</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="-payload-parameter/">PayloadParameter</a></td>
+<td>[androidJvm]<br>@<a href="../../com.njf2016.android.nongapi.annotation/-since-nong-api/">SinceNongApi</a>(version = &quot;0.0.3&quot;)<br>data class <a href="-payload-parameter/">PayloadParameter</a>(val areaDevice: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a>, val yyyyMMdd: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a>?, val growParameters: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a>?) : <a href="https://developer.android.com/reference/kotlin/java/io/Serializable.html">Serializable</a></td>
+</tr>
+</tbody>
+</table>
 <h2 id="functions">Functions</h2>
 <table>
 <thead>
@@ -620,28 +664,15 @@ interface <a href="./">V_0_0_3</a></p>
 <tbody>
 <tr>
 <td><a href="parameter-add/">parameterAdd</a></td>
-<td>[androidJvm]<br>@<a href="../../com.njf2016.android.nongapi.annotation/-since-nong-api/">SinceNongApi</a>(version = &quot;0.0.3&quot;)<br>abstract fun <a href="parameter-add/">parameterAdd</a>(payload: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a>)</td>
+<td>[androidJvm]<br>@<a href="../../com.njf2016.android.nongapi.annotation/-since-nong-api/">SinceNongApi</a>(version = &quot;0.0.3&quot;)<br>abstract fun <a href="parameter-add/">parameterAdd</a>(payload: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a>)<br>添加生长期建模</td>
 </tr>
 <tr>
 <td><a href="parameter-copy/">parameterCopy</a></td>
-<td>[androidJvm]<br>@<a href="../../com.njf2016.android.nongapi.annotation/-since-nong-api/">SinceNongApi</a>(version = &quot;0.0.3&quot;)<br>abstract fun <a href="parameter-copy/">parameterCopy</a>(payload: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a>)</td>
+<td>[androidJvm]<br>@<a href="../../com.njf2016.android.nongapi.annotation/-since-nong-api/">SinceNongApi</a>(version = &quot;0.0.3&quot;)<br>abstract fun <a href="parameter-copy/">parameterCopy</a>(payload: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a>)<br>复制生长期建模</td>
 </tr>
 <tr>
 <td><a href="parameter-edit/">parameterEdit</a></td>
-<td>[androidJvm]<br>@<a href="../../com.njf2016.android.nongapi.annotation/-since-nong-api/">SinceNongApi</a>(version = &quot;0.0.3&quot;)<br>abstract fun <a href="parameter-edit/">parameterEdit</a>(payload: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a>)</td>
-</tr>
-</tbody>
-</table>
-<h2 id="inheritors">Inheritors</h2>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="../../com.njf2016.android.nongapi/-i-nong-api/">INongApi</a></td>
+<td>[androidJvm]<br>@<a href="../../com.njf2016.android.nongapi.annotation/-since-nong-api/">SinceNongApi</a>(version = &quot;0.0.3&quot;)<br>abstract fun <a href="parameter-edit/">parameterEdit</a>(payload: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-string/index.html">String</a>)<br>编辑生长期建模</td>
 </tr>
 </tbody>
 </table>
@@ -651,7 +682,7 @@ interface <a href="./">V_0_0_3</a></p>
   <small>
     
       最后更新:
-      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2023-03-10</span>
+      <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-iso_date">2023-03-11</span>
       
     
   </small>
